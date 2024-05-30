@@ -44,7 +44,7 @@ const Footer = () => {
         zIndex={5}
         position="absolute"
         top={"60%"}
-        left={{ xs: "15%", sm: "0%" }}
+        left={{ xs: "0%", sm: "0%" }}
         alt="footertypo"
         src={footertypo.src}
         transform="translate(-10%)"
