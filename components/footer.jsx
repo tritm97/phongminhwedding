@@ -1,7 +1,7 @@
 import { Box, Image } from "@chakra-ui/react";
 
 import decoration from "../public/decoration2.svg";
-import footer from "../public/DSC_4718.jpg";
+import footer from "../public/DSC_4718.JPG";
 import footertypo from "../public/phongminh_preview_rev_1.png";
 
 const Footer = () => {
