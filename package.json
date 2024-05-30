@@ -1,0 +1,31 @@
+{
+  "name": "thinhly",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.12",
+    "@chakra-ui/react": "^2.3.6",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "aos": "^3.0.0-beta.6",
+    "file-loader": "^6.2.0",
+    "firebase": "^9.14.0",
+    "framer-motion": "^7.6.2",
+    "next": "13.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-simple-image-viewer": "^1.2.2",
+    "sass": "^1.56.1",
+    "swiper": "^8.4.5"
+  },
+  "devDependencies": {
+    "eslint": "8.26.0",
+    "eslint-config-next": "13.0.0"
+  }
+}
