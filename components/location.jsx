@@ -107,7 +107,7 @@ const Location = () => {
         <Tooltip label="Ấn vào đề mở bản đồ cho biết đường đi nè!">
           <Link
             data-aos="fade-up"
-            href="https://goo.gl/maps/izJhfabgSCQWxM3t9"
+            href="https://maps.app.goo.gl/qTFyR1fKKHN5CCXp6"
             isExternal
           >
             <Text color="main" align="center" fontSize="lg">

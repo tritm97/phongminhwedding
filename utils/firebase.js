@@ -13,13 +13,13 @@ import { initializeApp } from "firebase/app";
 // };
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDy_eh443xLhgmwtDbJ-vEni3KGUqtZUaM",
-  authDomain: "phong-minh.firebaseapp.com",
-  projectId: "phong-minh",
-  storageBucket: "phong-minh.appspot.com",
-  messagingSenderId: "787197515062",
-  appId: "1:787197515062:web:a06ead8c2d6f74b8980f97",
-  measurementId: "G-VKP896W5E9"
+  apiKey: "AIzaSyDXF14xRFRk3rXAyzxz3HJ2G5e9a0Llf7o",
+  authDomain: "phongminh-a3fb1.firebaseapp.com",
+  databaseURL: "https://phongminh-a3fb1-default-rtdb.firebaseio.com",
+  projectId: "phongminh-a3fb1",
+  storageBucket: "phongminh-a3fb1.appspot.com",
+  messagingSenderId: "678681688865",
+  appId: "1:678681688865:web:838773c3ded3deb6c19c60"
 };
 
 const app = initializeApp(firebaseConfig);
