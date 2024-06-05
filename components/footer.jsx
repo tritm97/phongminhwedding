@@ -43,7 +43,7 @@ const Footer = () => {
         data-aos-duration="1000"
         zIndex={5}
         position="absolute"
-        top={"60%"}
+        top={"55%"}
         left={{ xs: "0%", sm: "0%" }}
         alt="footertypo"
         src={footertypo.src}
