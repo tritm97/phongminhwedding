@@ -55,7 +55,7 @@ const Location = () => {
             color="main"
             align="center"
           >
-            18:00 Chủ nhật
+            11:00 Chủ nhật
           </Text>
 
           <Text
@@ -99,19 +99,19 @@ const Location = () => {
           align="center"
           fontSize="lg"
         >
-          Tại nhà hàng tiệc cưới
+          Tại
         </Text>
         <Text data-aos="fade-up" fontSize="6xl" color="main" align="center">
-          CAO LÃNH CAO LÃNH
+          TƯ GIA
         </Text>
         <Tooltip label="Ấn vào đề mở bản đồ cho biết đường đi nè!">
           <Link
             data-aos="fade-up"
-            href="https://maps.app.goo.gl/qTFyR1fKKHN5CCXp6"
+            href="https://maps.app.goo.gl/Aa1TcpMbWhwp57vN8"
             isExternal
           >
             <Text color="main" align="center" fontSize="lg">
-              Cao Lãnh Cao Lãnh, Phường Cao Lãnh, Quận Cao Lãnh, TP. Cao Lãnh
+              35/4/1 Rạch nhỏ, tổ 18, ấp 1, xã Mỹ Trà, thành phố Cao Lãnh, tỉnh Đồng Tháp
               <ExternalLinkIcon mx="2px" />
             </Text>
           </Link>
